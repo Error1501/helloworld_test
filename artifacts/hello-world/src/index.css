@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  min-height: 100dvh;
+  font-family: system-ui, sans-serif;
+  background: #f6f4ef;
+  color: #1f1d1a;
+}
