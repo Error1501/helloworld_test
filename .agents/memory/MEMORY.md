@@ -1,0 +1,1 @@
+- [GitHub authentication](github-auth.md) — connector authorization and shell Git authentication are separate failure paths.
